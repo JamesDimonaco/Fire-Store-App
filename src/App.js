@@ -1,4 +1,5 @@
 import "./App.css";
+import "./style.css";
 import DataBase from "./components/DataBase";
 function App() {
   return (
