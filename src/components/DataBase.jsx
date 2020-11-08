@@ -99,7 +99,7 @@ const DataBase = () => {
     setHidUpdate(true);
   };
   return (
-    <div>
+    <div className="padding">
       <h1>Your data on Fire Store</h1>
       <ul>{people}</ul>
       <div hidden={hidUpdate}>
